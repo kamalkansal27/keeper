@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.header{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #f5ba13;
+}
+.headertitle{
+    margin-left: 15px;
+    font-weight: 600;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
